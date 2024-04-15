@@ -1,3 +1,11 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+.watch-btn {
+  text-align: center;
+  text-decoration-line: none;
+  background-color: #ff862f;
+  width: 100%;
+  display: block;
+}
+
+.text {
+  color: #3d3d3d;
+}
